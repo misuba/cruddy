@@ -1,0 +1,11 @@
+{
+  "name": "cruddy",
+  "version": "0.0.1",
+  "description": "A toy key-value store that I'm not sure why I'm making a package.json for",
+  "main": "cruddy.js",
+  "scripts": {
+    "test": "node cruddy.test.js"
+  },
+  "author": "Mike Sugarbaker",
+  "license": "LOL"
+}
